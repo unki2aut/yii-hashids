@@ -1,4 +1,5 @@
 yii-hashids
 ===========
 
-Extension for the hashids library
+YII Extension for the hashids library
+https://github.com/ivanakimov/hashids.js
